@@ -16,7 +16,7 @@
 
 ## 技术栈
 
-- Vue.js 3.x
+- Vue.js 3.5.26
 - TypeScript
 - Vite 构建工具
 - pnpm 包管理器
