@@ -14,20 +14,6 @@
 └── readme.md  # 项目说明文档
 ```
 
-## 学习内容
-
-### 笔记目录
-
-1. [开启 Vue 的第一步](./notes/01.开启vue的第一步.md) - Vue.js 简介和基本设置
-2. [基本的模版语法](./notes/02.基本的模版语法.md) - Vue 模板语法详解
-3. [响应式基础之 ref](./notes/03.响应式基础之ref.md) - 使用 ref 创建响应式数据
-4. [响应式基础之 reactive](./notes/04.响应式基础之reactive.md) - 使用 reactive 创建响应式对象
-
-### 代码示例
-
-- **01vue** - Vue 基础示例
-- **02vue** - Vue 进阶示例 (使用 TypeScript 和 Vite)
-
 ## 技术栈
 
 - Vue.js 3.x
